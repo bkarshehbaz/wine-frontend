@@ -1,0 +1,157 @@
+[{
+  "_id": {
+    "$oid": "62058928bb30d2503f70654d"
+  },
+  "id": "590329673c3a710600aa0daf",
+  "name": "Emilia Indocilis Rosso Frizzante",
+  "year": "2019",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154327_4.jpg",
+  "region": "Italy",
+  "varietal": "Red Blend",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6205893bbb30d2503f706551"
+  },
+  "id": "5305baee8953f6d73901ec68",
+  "name": "Willamette Valley Pinot Noir",
+  "year": "2020",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154327_6.jpg",
+  "region": "USA",
+  "varietal": "Pinot Noir",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6205894abb30d2503f706554"
+  },
+  "id": "590329673c3a710600aa0daf",
+  "name": "Emilia Indocilis Rosso Frizzante",
+  "year": "2019",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154331_0.jpg",
+  "region": "Italy",
+  "varietal": "Red Blend",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62058970bb30d2503f706559"
+  },
+  "id": "5305baee8953f6d73901ec68",
+  "name": "Willamette Valley Pinot Noir",
+  "year": "2020",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154331_original.jpg",
+  "region": "USA",
+  "varietal": "Pinot Noir",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62058972bb30d2503f70655c"
+  },
+  "id": "54f26162bc9f10b976b763e2",
+  "name": "Pommard Pinot Noir",
+  "year": "2017",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154331_original.jpg",
+  "region": "France",
+  "varietal": "Pinot Noir",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6205899cbb30d2503f706563"
+  },
+  "id": "590329673c3a710600aa0daf",
+  "name": "Emilia Indocilis Rosso Frizzante",
+  "year": "2019",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154333_3.jpg",
+  "region": "Italy",
+  "varietal": "Red Blend",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620589acbb30d2503f706566"
+  },
+  "id": "5c135fda977ad2010020a9c6",
+  "name": "Abstract Grenache Blend",
+  "year": "NV",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154438_3.jpg",
+  "region": "USA",
+  "varietal": "Syrah",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620589c5bb30d2503f70656b"
+  },
+  "id": "590329673c3a710600aa0daf",
+  "name": "Emilia Indocilis Rosso Frizzante",
+  "year": "2019",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154438_5.jpg",
+  "region": "Italy",
+  "varietal": "Red Blend",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620589dbbb30d2503f70656f"
+  },
+  "id": "590329673c3a710600aa0daf",
+  "name": "Emilia Indocilis Rosso Frizzante",
+  "year": "2019",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154438_original.jpg",
+  "region": "Italy",
+  "varietal": "Red Blend",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62058a01bb30d2503f706574"
+  },
+  "id": "5305baab352b69163a006b9a",
+  "name": "Bourgogne Pinot Noir",
+  "year": "2019",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154442_3.jpg",
+  "region": "France",
+  "varietal": "Pinot Noir",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62058a0dbb30d2503f706578"
+  },
+  "id": "5305ba688953f6d73900a1b0",
+  "name": "Bourgogne Pinot Noir",
+  "year": "2020",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154442_original.jpg",
+  "region": "France",
+  "varietal": "Pinot Noir",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62058a17bb30d2503f70657b"
+  },
+  "id": "590329673c3a710600aa0daf",
+  "name": "Emilia Indocilis Rosso Frizzante",
+  "year": "2019",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154444_2.jpg",
+  "region": "Italy",
+  "varietal": "Red Blend",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62058a24bb30d2503f70657e"
+  },
+  "id": "5c135fda977ad2010020a9c6",
+  "name": "Abstract Grenache Blend",
+  "year": "NV",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154444_original.jpg",
+  "region": "USA",
+  "varietal": "Syrah",
+  "__v": 0
+}]

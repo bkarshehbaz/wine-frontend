@@ -1,0 +1,261 @@
+[{
+  "_id": {
+    "$oid": "6204238978a6a8eeb6be5206"
+  },
+  "id": "590329673c3a710600aa0daf",
+  "name": "Emilia Indocilis Rosso Frizzante",
+  "year": "2019",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154327_4.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6204239278a6a8eeb6be5209"
+  },
+  "id": "",
+  "name": "",
+  "year": "",
+  "color": "",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154327_5.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6204239c78a6a8eeb6be520c"
+  },
+  "id": "5305baee8953f6d73901ec68",
+  "name": "Willamette Valley Pinot Noir",
+  "year": "2020",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154327_6.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620423a778a6a8eeb6be520f"
+  },
+  "id": "590329673c3a710600aa0daf",
+  "name": "Emilia Indocilis Rosso Frizzante",
+  "year": "2019",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154327_original.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620423b078a6a8eeb6be5212"
+  },
+  "id": "",
+  "name": "",
+  "year": "",
+  "color": "",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154331_0.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620423ba78a6a8eeb6be5215"
+  },
+  "id": "",
+  "name": "",
+  "year": "",
+  "color": "",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154331_1.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620423c678a6a8eeb6be5218"
+  },
+  "id": "54f26162bc9f10b976b763e2",
+  "name": "Pommard Pinot Noir",
+  "year": "2017",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154331_2.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620423cf78a6a8eeb6be521b"
+  },
+  "id": "5305baee8953f6d73901ec68",
+  "name": "Willamette Valley Pinot Noir",
+  "year": "2020",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154331_3.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620423d978a6a8eeb6be521e"
+  },
+  "id": "",
+  "name": "",
+  "year": "",
+  "color": "",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154331_original.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620423e278a6a8eeb6be5221"
+  },
+  "id": "",
+  "name": "",
+  "year": "",
+  "color": "",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154333_0.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620423ed78a6a8eeb6be5224"
+  },
+  "id": "5c135fda977ad2010020a9c6",
+  "name": "Abstract Grenache Blend",
+  "year": "NV",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154333_1.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620423f678a6a8eeb6be5227"
+  },
+  "id": "",
+  "name": "",
+  "year": "",
+  "color": "",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154333_2.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6204240178a6a8eeb6be522a"
+  },
+  "id": "590329673c3a710600aa0daf",
+  "name": "Emilia Indocilis Rosso Frizzante",
+  "year": "2019",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154333_3.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6204240c78a6a8eeb6be522d"
+  },
+  "id": "5c135fda977ad2010020a9c6",
+  "name": "Abstract Grenache Blend",
+  "year": "NV",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154333_original.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6204241478a6a8eeb6be5230"
+  },
+  "id": "",
+  "name": "",
+  "year": "",
+  "color": "",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154438_3.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6204241e78a6a8eeb6be5233"
+  },
+  "id": "",
+  "name": "",
+  "year": "",
+  "color": "",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154438_4.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6204242978a6a8eeb6be5236"
+  },
+  "id": "590329673c3a710600aa0daf",
+  "name": "Emilia Indocilis Rosso Frizzante",
+  "year": "2019",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154438_5.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6204243278a6a8eeb6be5239"
+  },
+  "id": "",
+  "name": "",
+  "year": "",
+  "color": "",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154438_7.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6204243d78a6a8eeb6be523c"
+  },
+  "id": "590329673c3a710600aa0daf",
+  "name": "Emilia Indocilis Rosso Frizzante",
+  "year": "2019",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154438_original.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6204244678a6a8eeb6be523f"
+  },
+  "id": "",
+  "name": "",
+  "year": "",
+  "color": "",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154442_0.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6204245178a6a8eeb6be5242"
+  },
+  "id": "",
+  "name": "",
+  "year": "",
+  "color": "",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154442_1.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6204245c78a6a8eeb6be5245"
+  },
+  "id": "5305baab352b69163a006b9a",
+  "name": "Bourgogne Pinot Noir",
+  "year": "2019",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154442_2.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6204246478a6a8eeb6be5248"
+  },
+  "id": "",
+  "name": "",
+  "year": "",
+  "color": "",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154442_3.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6204247178a6a8eeb6be524b"
+  },
+  "id": "5305ba688953f6d73900a1b0",
+  "name": "Bourgogne Pinot Noir",
+  "year": "2020",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154442_original.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6204247a78a6a8eeb6be524e"
+  },
+  "id": "590329673c3a710600aa0daf",
+  "name": "Emilia Indocilis Rosso Frizzante",
+  "year": "2019",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154444_2.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6204248478a6a8eeb6be5251"
+  },
+  "id": "5c135fda977ad2010020a9c6",
+  "name": "Abstract Grenache Blend",
+  "year": "NV",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154444_original.jpg",
+  "__v": 0
+}]

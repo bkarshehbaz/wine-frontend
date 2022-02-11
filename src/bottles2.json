@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "62057dab90bd68334d3c214a"
+  },
+  "id": "590329673c3a710600aa0daf",
+  "name": "Emilia Indocilis Rosso Frizzante",
+  "year": "2019",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154327_4.jpg",
+  "region": "Italy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62057dbe90bd68334d3c214e"
+  },
+  "id": "5305baee8953f6d73901ec68",
+  "name": "Willamette Valley Pinot Noir",
+  "year": "2020",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154327_6.jpg",
+  "region": "USA",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62057dca90bd68334d3c2151"
+  },
+  "id": "590329673c3a710600aa0daf",
+  "name": "Emilia Indocilis Rosso Frizzante",
+  "year": "2019",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154327_original.jpg",
+  "region": "Italy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62057de890bd68334d3c2156"
+  },
+  "id": "54f26162bc9f10b976b763e2",
+  "name": "Pommard Pinot Noir",
+  "year": "2017",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154331_2.jpg",
+  "region": "France",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62057df090bd68334d3c2159"
+  },
+  "id": "5305baee8953f6d73901ec68",
+  "name": "Willamette Valley Pinot Noir",
+  "year": "2020",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154331_3.jpg",
+  "region": "USA",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62057e0f90bd68334d3c215e"
+  },
+  "id": "5c135fda977ad2010020a9c6",
+  "name": "Abstract Grenache Blend",
+  "year": "NV",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154333_1.jpg",
+  "region": "USA",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62057e2290bd68334d3c2162"
+  },
+  "id": "590329673c3a710600aa0daf",
+  "name": "Emilia Indocilis Rosso Frizzante",
+  "year": "2019",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154333_3.jpg",
+  "region": "Italy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62057e4b90bd68334d3c2168"
+  },
+  "id": "590329673c3a710600aa0daf",
+  "name": "Emilia Indocilis Rosso Frizzante",
+  "year": "2019",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154438_5.jpg",
+  "region": "Italy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62057e5f90bd68334d3c216c"
+  },
+  "id": "590329673c3a710600aa0daf",
+  "name": "Emilia Indocilis Rosso Frizzante",
+  "year": "2019",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154438_original.jpg",
+  "region": "Italy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62057e7d90bd68334d3c2171"
+  },
+  "id": "5305baab352b69163a006b9a",
+  "name": "Bourgogne Pinot Noir",
+  "year": "2019",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154442_2.jpg",
+  "region": "France",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62057e9190bd68334d3c2175"
+  },
+  "id": "5305ba688953f6d73900a1b0",
+  "name": "Bourgogne Pinot Noir",
+  "year": "2020",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154442_original.jpg",
+  "region": "France",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62057e9a90bd68334d3c2178"
+  },
+  "id": "590329673c3a710600aa0daf",
+  "name": "Emilia Indocilis Rosso Frizzante",
+  "year": "2019",
+  "color": "red",
+  "img": "https://kezpobucket.s3.us-east-2.amazonaws.com/results/01202022154444_2.jpg",
+  "region": "Italy",
+  "__v": 0
+}]
